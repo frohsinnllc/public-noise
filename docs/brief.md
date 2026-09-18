@@ -1,7 +1,7 @@
 # public noise — Mockup Brief
 
 ## Ziel
-Vorzeigbare Konzept-Website für public noise Veranstaltungstechnik, basierend auf den verifizierten öffentlichen Angaben: Name, Branche, Rüsselsheim und info@public-noise.de.
+Vorzeigbare Konzept-Website für public noise Veranstaltungstechnik, basierend auf den verifizierten öffentlichen Angaben: Name, Branche, Rüsselsheim und public.noise@t-online.de.
 
 ## Positionierung
 Dark Editorial / Konzertästhetik. Die Seite zeigt public noise als möglichen technischen Partner für Events, ohne unbelegte Referenzen, Kundenlogos, Kennzahlen oder Kontaktdaten zu erfinden.
@@ -12,7 +12,7 @@ Dark Editorial / Konzertästhetik. Die Seite zeigt public noise als möglichen t
 - Prozess: Planen, Vorbereiten, Produzieren, Betreuen.
 - Einsatzbereiche: Live-Musik, Kultur, Corporate, private Events, Outdoor.
 - Konzept-Showcase mit transparentem Preview-Hinweis.
-- Kontakt mit info@public-noise.de und Rüsselsheim / Rhein-Main.
+- Kontakt mit public.noise@t-online.de und Rüsselsheim / Rhein-Main.
 
 ## Technik
 Statische HTML/CSS/JS-Microsite, GitHub-Pages-kompatibel, responsive, keine Backend-Formulare, reduzierte Animation bei prefers-reduced-motion.
